@@ -1,4 +1,9 @@
-<nav>
-    <a href="/">Home</a>
-    <a href="/friends.html">Friends</a>
-</nav>
+<ul>
+    {% for item in site. data.navigation %}
+    <li>
+        <a href="{{ item.link }}" {% if pagr.url == item.link %} class="active"{% endif %}>
+            {{ item.name }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>

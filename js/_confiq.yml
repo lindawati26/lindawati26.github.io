@@ -1,0 +1,15 @@
+title: linda Wati
+email: linwati2040@gmail.com
+description: > # this means to igrone newlines unil "baseurl:"
+  saya 
+    berasal dari aceh singkil,sekarang saya tinggal di asrama politeknik negeri lhokseumawe,saya jurusan teknik
+    informasi komputer dan prodi saya teknik informatika.
+    saya Alumni dari SMK N 1 penanggalan,Dan sekarang saya berkuliah di politeknik negeri lhokseumawe,Hobi saya menari,bernyanyi,
+    tanggal lahir saya 25-06-2006,saya anak ke 3 dari 5 bersaudara
+
+    url:lindawati26.github.io
+
+    plugins:
+      -jekyll-feed
+      -jekyll-sitemap
+      -jekyll-seo-tag

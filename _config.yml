@@ -7,9 +7,9 @@ description: > # this means to igrone newlines unil "baseurl:"
     saya Alumni dari SMK N 1 penanggalan,Dan sekarang saya berkuliah di politeknik negeri lhokseumawe,Hobi saya menari,bernyanyi,
     tanggal lahir saya 25-06-2006,saya anak ke 3 dari 5 bersaudara
 
-    url:lindawati26.github.io
+url: 'https://lindawati26.github.io'
 
-    plugins:
-      -jekyll-feed
-      -jekyll-sitemap
-      -jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
